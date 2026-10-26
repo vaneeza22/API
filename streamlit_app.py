@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 
-API_URL = "https://cavalry-tying-essential.ngrok-free.dev/"
+API_URL = "https://cavalry-tying-essential.ngrok-free.dev"
 st.set_page_config(
     page_title="Student Predictor", page_icon="🎓", layout="centered"
 )
